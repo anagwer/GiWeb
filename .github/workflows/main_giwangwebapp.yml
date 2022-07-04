@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'GiwangWebApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E0E0712BABDD48E5997DE467B56BB358 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D15D805C0F4445438B29E9BB21F2FF86 }}
           package: .
